@@ -1,4 +1,4 @@
-# MetaMask SDK Examples Monorepo
+# MetaMask SDK Examples Monorepo/Template 
 
 This monorepo contains various example applications demonstrating the integration of MetaMask SDK across different frameworks and platforms. Built with Turborepo for efficient development and build processes.
 
